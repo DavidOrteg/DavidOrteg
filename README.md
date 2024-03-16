@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DavidOrteg
-- 👀 I’m interested in Python, Pascal & Malwares
+- 👀 I’m interested in: Python, Pascal & Malwares
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on NOTHING
-- 📫 How to reach me emails : david.ortega.gonzalez20@gmail.com and david_ortega8@yahoo.com.mx
+- 💞️ I’m looking to collaborate on: NOTHING
+- 📫 How to reach me: emails : david.ortega.gonzalez20@gmail.com and david_ortega8@yahoo.com.mx tel : 55 3985 7180
 - 😄 Pronouns: He
 - ⚡ Fun fact: I Love Viruses
 
